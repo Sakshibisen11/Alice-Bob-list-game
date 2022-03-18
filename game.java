@@ -7,7 +7,7 @@ In each turn player can do the following:
 
 
 APPROACH
-1.sort the lists in descending order(helps in identifying the greatest number present in list)
+1.sort the lists in ascending order(helps in identifying the greatest number present in list)
 2.Assign flag=0 for Alice's chance and flag=1 for Bob's chance
 3.Calculate sum of each list.
 4. If it is Alice's chance and sum of Alice's list is smaller than Bob's list then remove the greatest number from Bob's list.
